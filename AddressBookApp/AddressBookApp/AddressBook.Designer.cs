@@ -131,11 +131,14 @@
             // 
             // showAllListView
             // 
+            this.showAllListView.FullRowSelect = true;
+            this.showAllListView.GridLines = true;
             this.showAllListView.Location = new System.Drawing.Point(29, 227);
             this.showAllListView.Name = "showAllListView";
             this.showAllListView.Size = new System.Drawing.Size(422, 97);
             this.showAllListView.TabIndex = 10;
             this.showAllListView.UseCompatibleStateImageBehavior = false;
+            this.showAllListView.View = System.Windows.Forms.View.Details;
             // 
             // searchComboBox
             // 

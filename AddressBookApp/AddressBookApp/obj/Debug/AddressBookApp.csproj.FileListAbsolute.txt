@@ -8,3 +8,13 @@ D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csproj.G
 D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.exe
 D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.pdb
 D:\asp.net\gorom\AddressBookApp\AddressBookApp\bin\Debug\CSVLib.dll
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe.config
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.exe
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.pdb
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.pdb
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\bin\Debug\CSVLib.dll
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csprojResolveAssemblyReference.cache
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.AddressBook.resources
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.Properties.Resources.resources
+C:\Users\LICT\Desktop\14.12.14\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csproj.GenerateResource.Cache

@@ -97,6 +97,7 @@ namespace AddressBookApp
 
         private void searchButton_Click(object sender, EventArgs e)
         {
+            showAllListView.Items.Clear();
             FileStream aStream = new FileStream(path, FileMode.Open);
             CsvFileReader csvReader = new CsvFileReader(aStream);
             List<string> infoList = new List<string>();
