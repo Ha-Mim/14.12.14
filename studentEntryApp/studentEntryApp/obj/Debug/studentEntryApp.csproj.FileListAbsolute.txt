@@ -1,0 +1,10 @@
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\bin\Debug\studentEntryApp.exe.config
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\bin\Debug\studentEntryApp.exe
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\bin\Debug\studentEntryApp.pdb
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\bin\Debug\CSVLib.dll
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\obj\Debug\studentEntryApp.csprojResolveAssemblyReference.cache
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\obj\Debug\studentEntryApp.StudentInfo.resources
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\obj\Debug\studentEntryApp.Properties.Resources.resources
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\obj\Debug\studentEntryApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\obj\Debug\studentEntryApp.exe
+D:\asp.net\gorom\studentEntryApp\studentEntryApp\obj\Debug\studentEntryApp.pdb

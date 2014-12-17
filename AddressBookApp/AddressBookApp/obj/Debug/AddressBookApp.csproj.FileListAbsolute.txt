@@ -1,0 +1,10 @@
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe.config
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.pdb
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csprojResolveAssemblyReference.cache
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.AddressBook.resources
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.Properties.Resources.resources
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.exe
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.pdb
+D:\asp.net\gorom\AddressBookApp\AddressBookApp\bin\Debug\CSVLib.dll

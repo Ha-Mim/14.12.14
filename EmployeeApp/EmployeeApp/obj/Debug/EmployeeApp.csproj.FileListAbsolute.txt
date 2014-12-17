@@ -1,0 +1,9 @@
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Emplyee.resources
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+D:\asp.net\gorom\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
